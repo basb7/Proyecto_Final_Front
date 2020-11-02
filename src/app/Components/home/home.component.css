@@ -1,0 +1,16 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+.textProyect{
+    font-family: 'Roboto', sans-serif;
+    color: #18262C;
+    font-size: 1.4rem;
+    font-weight:lighter;
+}
+
+.bold{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}

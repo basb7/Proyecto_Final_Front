@@ -1,0 +1,39 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.wave{
+    height: 5rem;
+    background-color: white;
+    border-radius: 0% 0% 50% 50%;
+    margin-bottom: 2rem;
+}
+
+.bgDev{
+    background-color: #1f2D30;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.bgFooter{
+    background-color: #1B262C;
+    color: white;
+    height: 25rem;   
+    font-family: 'Roboto', sans-serif;
+}
+.subs{
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.subscribe{
+    font-size: 1.3rem;
+}
+
+#inputSub::placeholder{
+    color: white;
+    padding-left: 1rem;
+}
+.socialMedia img:hover{
+    background-color: #8EACC2 !important;
+}
+
+
