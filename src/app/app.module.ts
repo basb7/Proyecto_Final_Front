@@ -18,7 +18,7 @@ const routesApp: Routes = [
   { path: '', component: HomeComponent },
   { path: 'Blog', component: BlogComponent },
   { path: 'Login', component: LoginComponent },
-  { path: 'Singup', component: SingUpComponent }
+  { path: 'SignUp', component: SingUpComponent }
 
 ]
 
